@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489434775 source:/home/fatima/Bureau/projet 2/c++/opencomv/main.cpp
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<iostream>
+	<stdio.h>
+
